@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TaxiRouting.Benchmarks/TaxiRouting.Benchmarks.csproj" />
+  <Project Path="TaxiRouting.Core/TaxiRouting.Core.csproj" />
+  <Project Path="TaxiRouting.Tests/TaxiRouting.Tests.csproj" />
+</Solution>
